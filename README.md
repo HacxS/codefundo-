@@ -7,3 +7,5 @@
 4. And Block is pass to BlockChain with its BlockHeight.
 5. Then Block is Send to P2P network.
 6. Like in Bitcoin we uses Miner for Verification of Block that uses Proof-of-Concept to Validate Block.
+
+### Technology --> Block Chain, Azure Blockchain platform, HTML, CSS, Javascript, Python(Django), Face recognition with Liveness detection, One-way hashing etc.
